@@ -1,0 +1,13 @@
+{
+    "name": "micah/simple-websites-with-php",
+    "authors": [
+        {
+            "name": "Micah Potts",
+            "email": "mrs.micahpotts@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.20",
+        "slim/slim": "~2.6"
+    }
+}
